@@ -1,0 +1,481 @@
+{
+    "source_code": "Europe's most wanted",
+    "source_name": "ENFAST",
+    "source_url": "https://eumostwanted.eu/",
+    "people": [
+        {
+            "firstname": "ALE\u0160",
+            "lastname": "SEMOLI\u010c",
+            "about": {
+                "crime": "Fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of European Communities' financial interests",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "Slovenia",
+                "ethnic_origin": "European",
+                "spoken_languages": "Bosnian Croatian English Italian Serbo-Croatian Slovenian"
+            }
+        },
+        {
+            "firstname": "JUSSI",
+            "lastname": "LAAMANEN",
+            "about": {
+                "crime": "Murder, grievous bodily injury",
+                "sex": "Male",
+                "eye_colour": "Blue",
+                "nationality": "Swedish",
+                "ethnic_origin": "European",
+                "spoken_languages": "Finnish Swedish"
+            }
+        },
+        {
+            "firstname": "ROMAN",
+            "lastname": "RASOULI",
+            "about": {
+                "crime": "Murder, grievous bodily injury",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "Swedish",
+                "ethnic_origin": "Asian",
+                "spoken_languages": "Swedish"
+            }
+        },
+        {
+            "firstname": "ALDO",
+            "lastname": "IAMANDI",
+            "about": {
+                "crime": "Attempted Murder Illicit trafficking in weapons, munitions and explosives",
+                "sex": "Male",
+                "nationality": "Albanian",
+                "ethnic_origin": "European",
+                "spoken_languages": "Albanian"
+            }
+        },
+        {
+            "firstname": "NORMANVOLKER",
+            "lastname": "FRANZ",
+            "about": {
+                "crime": "Murder, grievous bodily injury",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "German",
+                "ethnic_origin": "European",
+                "spoken_languages": "English German Portuguese"
+            }
+        },
+        {
+            "firstname": "CHRISTO",
+            "lastname": "H\u00dcLTERS",
+            "about": {
+                "crime": "Attempted Murder",
+                "sex": "Male",
+                "eye_colour": "Grey",
+                "nationality": "Dutch",
+                "ethnic_origin": "European",
+                "spoken_languages": "Dutch"
+            }
+        },
+        {
+            "firstname": "ARAM",
+            "lastname": "KOHNEPUSHI",
+            "about": {
+                "crime": "Fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of European Communities' financial interests",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "Iranian",
+                "spoken_languages": "Finnish Kurdish"
+            }
+        },
+        {
+            "firstname": "KRE\u0160IMIR",
+            "lastname": "ZEBA",
+            "about": {
+                "crime": "Attempted Murder",
+                "sex": "Male",
+                "eye_colour": "Blue",
+                "nationality": "Bosnian/Herzegovinian Croatian",
+                "spoken_languages": "Croatian"
+            }
+        },
+        {
+            "firstname": "MOHAMMED",
+            "lastname": "HERZI",
+            "about": {
+                "crime": "Kidnapping, illegal restraint and hostage- taking Rape Trafficking in human beings",
+                "sex": "Male",
+                "nationality": "Tunisian",
+                "ethnic_origin": "North-African"
+            }
+        },
+        {
+            "firstname": "SALIBOKO",
+            "lastname": "YUMBI",
+            "about": {
+                "crime": "Rape",
+                "sex": "Male",
+                "nationality": "Belgian",
+                "ethnic_origin": "African",
+                "spoken_languages": "French"
+            }
+        },
+        {
+            "firstname": "ANTONIOVLADIMIR",
+            "lastname": "VINUEZA MORALES",
+            "about": {
+                "crime": "Rape",
+                "sex": "Male",
+                "eye_colour": "Black",
+                "nationality": "Ecuadorian",
+                "ethnic_origin": "Latin-American",
+                "spoken_languages": "Spanish"
+            }
+        },
+        {
+            "firstname": "ALVIS",
+            "lastname": "BEKETOVS",
+            "about": {
+                "crime": "Sexual exploitation of children and child pornography",
+                "sex": "Male",
+                "eye_colour": "Blue",
+                "nationality": "Latvian",
+                "spoken_languages": "Latvian Russian"
+            }
+        },
+        {
+            "firstname": "PLAMENIVANOV",
+            "lastname": "MITREV",
+            "about": {
+                "crime": "Rape",
+                "sex": "Male",
+                "nationality": "Bulgarian"
+            }
+        },
+        {
+            "firstname": "ALI-GENER",
+            "lastname": "MEMET",
+            "about": {
+                "crime": "Trafficking in human beings",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "Romanian",
+                "ethnic_origin": "European",
+                "spoken_languages": "Romanian"
+            }
+        },
+        {
+            "firstname": "MILU\u021a-LIVIU",
+            "lastname": "CIUCHE\u0218",
+            "about": {
+                "crime": "Attempted Murder Murder, grievous bodily injury Organised or armed robbery Participation in a criminal organisation",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "Romanian",
+                "ethnic_origin": "European",
+                "spoken_languages": "Romanian"
+            }
+        },
+        {
+            "firstname": "YULIY",
+            "lastname": "SERICOV",
+            "about": {
+                "crime": "Sexual exploitation of children and child pornography",
+                "sex": "Male",
+                "nationality": "Russian",
+                "ethnic_origin": "European",
+                "spoken_languages": "Russian"
+            }
+        },
+        {
+            "firstname": "EDGARAS",
+            "lastname": "KALASUNAS",
+            "about": {
+                "crime": "Murder, grievous bodily injury Participation in a criminal organisation",
+                "sex": "Male",
+                "nationality": "Lithuanian",
+                "ethnic_origin": "European"
+            }
+        },
+        {
+            "firstname": "RENALDAS",
+            "lastname": "KANYS",
+            "about": {
+                "crime": "Illicit trafficking in narcotic drugs and psychotropic substances Murder, grievous bodily injury Participation in a criminal organisation",
+                "sex": "Male",
+                "nationality": "Lithuanian",
+                "ethnic_origin": "European"
+            }
+        },
+        {
+            "firstname": "JAN",
+            "lastname": "MARSALEK",
+            "about": {
+                "crime": "Fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of European Communities' financial interests Swindling",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "Austrian",
+                "ethnic_origin": "European",
+                "spoken_languages": "English French German"
+            }
+        },
+        {
+            "firstname": "V\u00c4RTINEN",
+            "lastname": "JEREMIAS EMIL OLAVI",
+            "about": {
+                "crime": "Illicit trafficking in narcotic drugs and psychotropic substances",
+                "sex": "Male",
+                "eye_colour": "Blue",
+                "nationality": "Finnish",
+                "ethnic_origin": "European"
+            }
+        },
+        {
+            "firstname": "FRANJO",
+            "lastname": "UZELAC",
+            "about": {
+                "crime": "Participation in a criminal organisation",
+                "sex": "Male",
+                "eye_colour": "Blue",
+                "nationality": "Croatian"
+            }
+        },
+        {
+            "firstname": "NATALIA",
+            "lastname": "KOTLYAROVA",
+            "about": {
+                "crime": "Illicit trafficking in narcotic drugs and psychotropic substances",
+                "sex": "Female",
+                "eye_colour": "Blue",
+                "nationality": "Russian",
+                "ethnic_origin": "European",
+                "spoken_languages": "Russian"
+            }
+        },
+        {
+            "firstname": "ELENA",
+            "lastname": "PUZYREVICH",
+            "about": {
+                "crime": "Trafficking in human beings",
+                "sex": "Female",
+                "eye_colour": "Brown",
+                "nationality": "Russian",
+                "ethnic_origin": "European"
+            }
+        },
+        {
+            "firstname": "TEOH",
+            "lastname": "YEON CHOY",
+            "about": {
+                "crime": "Participation in a criminal organisation Racketeering and extortion",
+                "sex": "Male",
+                "nationality": "Malaysian",
+                "ethnic_origin": "Chinese",
+                "spoken_languages": "English French Mandarin Yue (Cantonese)"
+            }
+        },
+        {
+            "firstname": "ANTONZHIVKOV",
+            "lastname": "PETKOVSKI  ",
+            "about": {
+                "crime": "Attempted Murder",
+                "sex": "Male",
+                "nationality": "Bulgarian",
+                "ethnic_origin": "European",
+                "spoken_languages": "Bulgarian"
+            }
+        },
+        {
+            "firstname": "TOMMY",
+            "lastname": "VAN DER SOMMEN",
+            "about": {
+                "crime": "Illicit trafficking in narcotic drugs and psychotropic substances",
+                "sex": "Male",
+                "eye_colour": "Blue",
+                "nationality": "Dutch",
+                "ethnic_origin": "European",
+                "spoken_languages": "Dutch"
+            }
+        },
+        {
+            "firstname": "GATIS",
+            "lastname": "ZVINGULIS",
+            "about": {
+                "crime": "Murder, grievous bodily injury",
+                "sex": "Male",
+                "nationality": "Latvian",
+                "spoken_languages": "Latvian Russian"
+            }
+        },
+        {
+            "firstname": "ROUF",
+            "lastname": "UDDIN",
+            "about": {
+                "crime": "Murder, grievous bodily injury",
+                "sex": "Male",
+                "eye_colour": "Black",
+                "nationality": "Bangladeshi",
+                "ethnic_origin": "Asian",
+                "spoken_languages": "Bengali"
+            }
+        },
+        {
+            "firstname": "ROBERT",
+            "lastname": "OKOLICANY",
+            "about": {
+                "crime": "Participation in a criminal organisation",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "Slovak",
+                "ethnic_origin": "European",
+                "spoken_languages": "Czech Slovak"
+            }
+        },
+        {
+            "firstname": "FAROUK",
+            "lastname": "HACHI",
+            "about": {
+                "crime": "Organised or armed robbery",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "French",
+                "ethnic_origin": "African",
+                "spoken_languages": "Arabic French"
+            }
+        },
+        {
+            "firstname": "ZOLT\u00c1N",
+            "lastname": "HOLL\u00d3SI",
+            "about": {
+                "crime": "Illicit trafficking in narcotic drugs and psychotropic substances",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "Hungarian",
+                "spoken_languages": "Hungarian"
+            }
+        },
+        {
+            "firstname": "ZOLTAN",
+            "lastname": "PLANK",
+            "about": {
+                "crime": "Murder, grievous bodily injury Organised or armed robbery",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "Hungarian",
+                "ethnic_origin": "European",
+                "spoken_languages": "Hungarian"
+            }
+        },
+        {
+            "firstname": "NOUREDDINEGIBRAHIM",
+            "lastname": "HAMID",
+            "about": {
+                "crime": "Murder, grievous bodily injury",
+                "sex": "Male",
+                "identifiers": "Arm(s) - Tattoo(s) Picture Body - Tattoo(s) Picture",
+                "nationality": "Libyan"
+            }
+        },
+        {
+            "firstname": "ALEKS",
+            "lastname": "BURRELI",
+            "about": {
+                "crime": "Arson Murder, grievous bodily injury",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "ethnic_origin": "European",
+                "spoken_languages": "Albanian"
+            }
+        },
+        {
+            "firstname": "KARIM",
+            "lastname": "OUALI",
+            "about": {
+                "crime": "Murder, grievous bodily injury",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "identifiers": "Body - Tattoo(s) Picture Leg(s) - Tattoo(s) Abstract Design",
+                "nationality": "French",
+                "ethnic_origin": "North-African",
+                "spoken_languages": "Arabic English French Spanish"
+            }
+        },
+        {
+            "firstname": "DANIEL",
+            "lastname": "BOROJEVI\u0106",
+            "about": {
+                "crime": "Organised or armed robbery",
+                "sex": "Male",
+                "nationality": "Slovenia",
+                "ethnic_origin": "European",
+                "spoken_languages": "Bosnian Serbo-Croatian Slovenian"
+            }
+        },
+        {
+            "firstname": "STANISLAV",
+            "lastname": "SEIDL",
+            "about": {
+                "crime": "Facilitation of unauthorised entry and residence Illicit trafficking in weapons, munitions and explosives Laundering of the proceeds of crime",
+                "sex": "Male",
+                "eye_colour": "Blue",
+                "identifiers": "Arm(s) - Tattoo(s) Abstract Design",
+                "nationality": "Czech",
+                "ethnic_origin": "European"
+            }
+        },
+        {
+            "firstname": "GIOVANNI",
+            "lastname": "MOTISI",
+            "about": {
+                "crime": "Murder, grievous bodily injury Participation in a criminal organisation",
+                "sex": "Male",
+                "ethnic_origin": "European",
+                "spoken_languages": "Italian"
+            }
+        },
+        {
+            "firstname": "MOHAMADAHMED",
+            "lastname": "HASSAN",
+            "about": {
+                "crime": "Murder, grievous bodily injury",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "identifiers": "Build - Hunched or stooped (visibly, cannot be hidden)",
+                "nationality": "Somalian",
+                "ethnic_origin": "African",
+                "spoken_languages": "Somali"
+            }
+        },
+        {
+            "firstname": "AMIN",
+            "lastname": "QATRA",
+            "about": {
+                "crime": "Murder, grievous bodily injury",
+                "sex": "Male",
+                "eye_colour": "Brown",
+                "nationality": "Afghan"
+            }
+        },
+        {
+            "firstname": "MATTEO",
+            "lastname": "MESSINA DENARO",
+            "about": {
+                "crime": "Murder, grievous bodily injury Participation in a criminal organisation",
+                "sex": "Male",
+                "nationality": "Italian",
+                "ethnic_origin": "European",
+                "spoken_languages": "Italian"
+            }
+        },
+        {
+            "firstname": "TIBOR",
+            "lastname": "FOCO",
+            "about": {
+                "crime": "Murder, grievous bodily injury",
+                "sex": "Male",
+                "eye_colour": "Blue",
+                "identifiers": "Arm(s) - Scar(s)",
+                "nationality": "Austrian",
+                "ethnic_origin": "European",
+                "spoken_languages": "English French German Hungarian"
+            }
+        }
+    ]
+}
